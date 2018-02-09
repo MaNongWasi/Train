@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekday">
+        <item>Monday</item>
+        <item>Tuesday </item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="meals">
+        <item>Meal 1</item>
+        <item>Meal 2</item>
+        <item>Meal 3</item>
+        <item>Meal 4</item>
+        <item>Meal 5</item>
+        <item>Meal 6</item>
+    </string-array>
+
+    <string-array name="actions">
+        <item>Dumbbell Side Raise</item>
+        <item>Dumbbell Shoulder Press</item>
+        <item>Front Press Vertical Grip</item>
+        <item>Cable Rope Front Raise</item>
+        <item>Smith Machine Shrugs</item>
+        <item>Abdominal Rope Crunch</item>
+        <item>Leg Raise</item>
+        <item>Loopband</item>
+        <item>Lat Pull Down</item>
+        <item>V-Row Bent Over Cabel</item>
+        <item>Dumbbell Row</item>
+        <item>V Pull Down</item>
+        <item>Deadlift + Row Barbell</item>
+        <item>One Arm Overhead Extension</item>
+        <item>Rope Press</item>
+        <item>Dipjes</item>
+        <item>Rope Side Crunch</item>
+        <item>Twist with Weight</item>
+        <item>Incline Dumbbell Fly</item>
+        <item>Incline Chest Press Smith</item>
+        <item>Peck Fly</item>
+        <item>Peck Deck</item>
+        <item>Chest Press</item>
+        <item>Push Up</item>
+        <item>Ball Crunch</item>
+        <item>Hang leg up</item>
+        <item>Crosstrainer</item>
+        <item>Leg Curl</item>
+        <item>Leg Extension"</item>
+        <item>Incline Leg Press</item>
+        <item>Leg Press</item>
+        <item>Sumo Squats with Weight</item>
+        <item>Box Spring</item>
+        <item>Concentration Curl Dumbbell</item>
+        <item>Barbell Curl</item>
+        <item>Hammer curl</item>
+        <item>Liggend Crunch</item>
+        <item>Side Crunch</item>
+        <item>Fietsen</item>
+        <item>Single Leg Extension</item>
+        <item>Front Squat</item>
+        <item>Waling lunges on Step</item>
+        <item>Deadlift Smith deep on Step</item>
+        <item>Hip Thrust</item>
+        <item>Standing Leg Curl</item>
+        <item>Upright Row</item>
+        <item>Landmine Angled Barbell Press</item>
+        <item>Cardio Interval</item>
+        <item>Incline Dumbbell Chest Press</item>
+        <item>Reverse Pull Down</item>
+        <item>Push Up with Step</item>
+        <item>Deadlift on Half</item>
+        <item>Dumbbell Up</item>
+        <item>Bent over Wide Grip</item>
+        <item>Back Extension</item>
+        <item>Wave</item>
+        <item>Cycling</item>
+        <item>Walking Lunges</item>
+        <item>Chest Press Plate Loaded</item>
+        <item>Pectoral Fly</item>
+        <item>Incline Chest Press</item>
+        <item>Cable Cross</item>
+        <item>Flat Dumbbell Press</item>
+        <item>Single Leg Curl</item>
+        <item>Hack Squat</item>
+        <item>Smith Vertical Press</item>
+        <item>Multi Hip</item>
+        <item>Cable Reverse Fly</item>
+        <item>Smith Neck Press</item>
+        <item>Wide Grip Upright Row</item>
+        <item>Bent Over Front Raise</item>
+        <item>Shoulder Press Plate Loaded</item>
+        <item>Dumbbell Shrug</item>
+        <item>Pull Down Plate Loaded</item>
+        <item>Vertical Row Plate Loaded</item>
+        <item>Wide Grip Row Plate Loaded</item>
+        <item>Pull Over</item>
+        <item>Bent Over Cable V Row</item>
+        <item>Deadlift</item>
+        <item>Dumbbell Chest Press</item>
+        <item>Abduction</item>
+        <item>Chest Dumbbell Fly</item>
+        <item>Side Lateral Fly Shoulder</item>
+        <item>Front Raise Barbell</item>
+        <item>Squat Smith Machine</item>
+        <item>Jumping Squat</item>
+        <item>Adduction</item>
+    </string-array>
+
+    <string-array name="action_info">
+        <item>15-12-10-8-6</item>
+        <item>15-12-10-8-15</item>
+        <item>3 x 15</item>
+        <item>3 x 10</item>
+        <item>4 x 12</item>
+        <item>4 x 15</item>
+        <item>10 x 12</item>
+        <item>3 x 12</item>
+        <item>3 x 20</item>
+        <item>3 x 30s</item>
+        <item>FST-7</item>
+        <item>8 min</item>
+        <item>20 min</item>
+        <item>Helling 8-10 Speed 6-7 12min</item>
+        <item>Helling 10 Speed 6 10min</item>
+        <item>3 x 25</item>
+        <item>3 x 20</item>
+        <item>2 x 15</item>
+        <item>6 x 15</item>
+        <item>30 min</item>
+        <item>40 min</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>Whey Protein</item>
+        <item>Havermout</item>
+        <item>Banana</item>
+        <item>Brown Bread</item>
+        <item>Omelet</item>
+        <item>Kipfilet</item>
+        <item>Tonijn</item>
+        <item>Komkommer</item>
+        <item>Tomaat</item>
+        <item>Whey Breakfast</item>
+        <item>Amandel</item>
+        <item>L carnitine</item>
+        <item>Egg</item>
+        <item>Grapefruit</item>
+        <item>Groente</item>
+        <item>Meat</item>
+        <item>Fish</item>
+        <item>Turky</item>
+        <item>Beef</item>
+        <item>Kwark</item>
+        <item>Walnoten</item>
+        <item>water</item>
+    </string-array>
+</resources>

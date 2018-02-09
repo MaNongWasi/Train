@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Training</string>
+    <string name="times">Times:</string>
+    <string name="done">Finish</string>
+    <string name="nutr">Nutrition</string>
+    <string name="train">Train Plan</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="mon">Monday</string>
+    <string name="tue">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thu">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+    <string name="sun">Sunday</string>
+    <string name="timer">timer</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="set_wp">Set Wall Paper</string>
+    <string name="export">Export Data</string>
+</resources>

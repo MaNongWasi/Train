@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="170dp"
+    android:layout_gravity="center">
+
+    <EditText
+        android:id="@+id/start_time_et"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_centerHorizontal="true"
+        android:singleLine="true"
+        android:gravity="center"
+        android:background="@drawable/edittext_normal"
+        android:focusable="false"
+        android:textSize="30sp"/>
+
+    <EditText
+        android:id="@+id/end_time_et"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/edittext_normal"
+        android:layout_below="@id/start_time_et"
+        android:layout_centerHorizontal="true"
+        android:singleLine="true"
+        android:focusable="false"
+        android:gravity="center"
+        />
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/end_time_et"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:id="@+id/ok"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="@string/ok"/>
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/ok"
+            android:layout_marginLeft="20dp"
+            android:text="@string/cancel"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
